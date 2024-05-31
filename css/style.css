@@ -1,0 +1,28 @@
+#timebox{
+    width: 400px;
+    height: 80px;
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding-top: 25px;
+    margin-bottom: 10px;
+text-align: center;
+font-size: 36px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+button{
+    width: 130px;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: rgb(196, 194, 194);
+}
+.flex{
+    display: flex;
+}
